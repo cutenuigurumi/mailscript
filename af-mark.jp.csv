@@ -1,9 +1,0 @@
-DisPlayName,Alias,PrimarySmtpAddress,Members,GroupType
-afmark_test@af-mark.jp,afmark_test,afmark_test@af-mark.jp,,Distribution
-alert@af-mark.jp,alert,alert@af-mark.jp,,Distribution
-alert-critical@af-mark.jp,alert-critical,alert-critical@af-mark.jp,,Distribution
-alert-ctc@af-mark.jp,alert-ctc,alert-ctc@af-mark.jp,,Distribution
-info@af-mark.jp,info,info@af-mark.jp,,Distribution
-mlmaster@af-mark.jp,mlmaster,mlmaster@af-mark.jp,,Distribution
-recruit@af-mark.jp,recruit,recruit@af-mark.jp,,Distribution
-redhat-info@af-mark.jp,redhat-info,redhat-info@af-mark.jp,,Distribution
